@@ -9,4 +9,6 @@ Curso na Alura - CSS: dispondo elementos com Flexbox e Grid
 
 `CSS`: `Flexbox`, `Grid`
 Diferenciar o flexbox do grid , identificar as limitações do flexbox , resolver problemas de repetiçôes de códigos e facilitar a manutenção.
+  
+<img src="flexboxGrid.png" alt="HZC Home">
 </div>
